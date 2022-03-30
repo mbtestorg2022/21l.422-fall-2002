@@ -4,6 +4,7 @@ description: 'Lecture #1: Introduction. Leviticus, 16. St Matthew, 26, xxx-xxxv,
   Two English Ballads: "Edward", "Sir Patric Spens."'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-422-tragedy-fall-2002/6169fa842078d62fa390ac5cb550af0a_lec1leviticus.pdf
 file_type: application/pdf
+parent_uid: e3be68ba-d475-cfaa-c2a5-8f4e852c3440
 resourcetype: Document
 title: lec1leviticus.pdf
 uid: 6169fa84-2078-d62f-a390-ac5cb550af0a
